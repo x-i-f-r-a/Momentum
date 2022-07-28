@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Momentum Web Framework
 ## Overview 
 
@@ -78,7 +78,7 @@ Momentum framework  is released under the BSD 3-Clause License.
 
 
 [dart_installation_link]: https://dart.dev/get-dart
-=======
+
 # Momentum Web Framework
 ## Overview 
 
